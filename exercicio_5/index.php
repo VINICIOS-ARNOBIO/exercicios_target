@@ -1,7 +1,7 @@
 <?php
 
 // Definindo a string a ser invertida
-$string = "Eu quero entrar na Target!!!";
+$string = "Me chamo Vinicios!!!";
 
 // Inicializando a string invertida
 $stringInvertida = "";
